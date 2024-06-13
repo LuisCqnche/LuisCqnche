@@ -1,7 +1,7 @@
 ## Hello, I'm Luis.
 
 - 🔭 I’m currently studying applied maths at the UNAM.
-- ⚡ love maths, statistics, computer science, and finance.
+- ⚡ I'm interested in maths, statistics, computer science, and finance.
 - 🌱 I’m currently learning about data analytics.
   
 # 💻 Tech Skills:
