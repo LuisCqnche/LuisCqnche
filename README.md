@@ -1,4 +1,4 @@
-## Hello, I'm Luis.
+## Hello.
 
 - 🔭 I’m currently studying applied maths at the UNAM.
 - ⚡ I'm interested in maths, statistics, computer science, and finance.
