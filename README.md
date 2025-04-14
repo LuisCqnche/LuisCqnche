@@ -1,7 +1,7 @@
 ## Hello.
 
-- 🔭 I’m currently studying applied maths at the UNAM.
-- ⚡ I'm interested in maths, statistics, computer science, and finance.
+- 🔭 I’m currently studying applied maths at the UNAM in Mexico.
+- ⚡ I'm interested in maths, computer science, and statistics.
 - 🌱 I’m currently learning about data analytics.
   
 # 💻 Tech Skills:
